@@ -4,38 +4,41 @@
   <url>
     <loc>/talks/</loc>
   </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/nguyen2023demystifying/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/huy-nguyen/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nhat-ho/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/trungtin-nguyen/</loc>
+    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/nguyen2023general/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/huy-nguyen/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/nhat-ho/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/pedram-akbarian/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/trungtin-nguyen/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/binh-t.-nguyen/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
@@ -72,9 +75,6 @@
   </url><url>
     <loc>/publication/nguyen2023towards/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/nguyen2023demystifying/</loc>
-    <lastmod>2023-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/convergence-rates-for-mixtures-of-experts/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
