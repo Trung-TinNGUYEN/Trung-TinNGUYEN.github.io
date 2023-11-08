@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | TrungTin Nguyen</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</title>
+      <link>/publication/nguyen2023general/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</title>
+      <link>/publication/do2023hyperouter/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/do2023hyperouter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts</title>
+      <link>/publication/nguyen2023towards/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Softmax Gating in Gaussian Mixture of Experts</title>
+      <link>/publication/nguyen2023demystifying/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023demystifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian nonparametric mixture of experts for high-dimensional inverse problems</title>
+      <link>/publication/nguyen2023bayesian/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration results for approximate Bayesian computation without identifiability</title>
+      <link>/publication/nguyen2023concentration/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic theory for model selection in high-dimensional mixture of experts via joint rank and variable selection</title>
+      <link>/publication/nguyen2023nonasymptotic/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summary statistics and discrepancy measures for approximate Bayesian computation via surrogate posteriors</title>
+      <link>/publication/forbes2022summary/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts</title>
+      <link>/publication/nguyen2022nonasymptotic/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture of expert posterior surrogates for approximate Bayesian computation</title>
+      <link>/publication/forbes2022mixture/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022mixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection by penalization in mixture of experts models with a non-asymptotic approach</title>
+      <link>/publication/nguyen2022model/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of probability density functions via location-scale finite mixtures in Lebesgue spaces</title>
+      <link>/publication/nguyen2020approximationlebesgue/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationlebesgue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection and Approximation in High-dimensional Mixtures of Experts Models: from Theory to Practice</title>
+      <link>/publication/nguyen2021modelthesis/</link>
+      <pubDate>Tue, 14 Dec 2021 14:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2021modelthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations of conditional probability density functions in Lebesgue spaces via mixture of experts models</title>
+      <link>/publication/nguyen2020approximationmoe/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationmoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic model selection in block-diagonal mixture of polynomial experts models</title>
+      <link>/publication/nguyen2021nonblompe/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2021nonblompe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An l1-oracle inequality for the Lasso in mixture-of-experts regression models</title>
+      <link>/publication/nguyen2020l1oracle/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020l1oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation by finite mixtures of continuous density functions that vanish at infinity</title>
+      <link>/publication/nguyen2020approximation/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

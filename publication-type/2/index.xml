@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | TrungTin Nguyen</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Summary statistics and discrepancy measures for approximate Bayesian computation via surrogate posteriors</title>
+      <link>/publication/forbes2022summary/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts</title>
+      <link>/publication/nguyen2022nonasymptotic/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of probability density functions via location-scale finite mixtures in Lebesgue spaces</title>
+      <link>/publication/nguyen2020approximationlebesgue/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationlebesgue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations of conditional probability density functions in Lebesgue spaces via mixture of experts models</title>
+      <link>/publication/nguyen2020approximationmoe/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationmoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation by finite mixtures of continuous density functions that vanish at infinity</title>
+      <link>/publication/nguyen2020approximation/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

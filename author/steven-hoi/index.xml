@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven HOI | TrungTin Nguyen</title>
+    <link>/author/steven-hoi/</link>
+      <atom:link href="/author/steven-hoi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven HOI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Steven HOI</title>
+      <link>/author/steven-hoi/</link>
+    </image>
+    
+    <item>
+      <title>HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</title>
+      <link>/publication/do2023hyperouter/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/do2023hyperouter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | TrungTin Nguyen</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</title>
+      <link>/publication/do2023hyperouter/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/do2023hyperouter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Softmax Gating in Gaussian Mixture of Experts</title>
+      <link>/publication/nguyen2023demystifying/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023demystifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture of expert posterior surrogates for approximate Bayesian computation</title>
+      <link>/publication/forbes2022mixture/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022mixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection by penalization in mixture of experts models with a non-asymptotic approach</title>
+      <link>/publication/nguyen2022model/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

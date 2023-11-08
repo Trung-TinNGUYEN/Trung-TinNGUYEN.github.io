@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model selection in mixture of experts models | TrungTin Nguyen</title>
+    <link>/tag/model-selection-in-mixture-of-experts-models/</link>
+      <atom:link href="/tag/model-selection-in-mixture-of-experts-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model selection in mixture of experts models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Model selection in mixture of experts models</title>
+      <link>/tag/model-selection-in-mixture-of-experts-models/</link>
+    </image>
+    
+    <item>
+      <title>Model Selection in Mixture of Experts Models</title>
+      <link>/project/model-selection-in-mixture-of-experts-models/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/model-selection-in-mixture-of-experts-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

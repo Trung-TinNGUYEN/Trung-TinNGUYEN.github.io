@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep neural networks | TrungTin Nguyen</title>
+    <link>/tag/deep-neural-networks/</link>
+      <atom:link href="/tag/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep neural networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Deep neural networks</title>
+      <link>/tag/deep-neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>Deep Neural Networks</title>
+      <link>/project/deep-neural-networks/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/project/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | TrungTin Nguyen</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</title>
+      <link>/publication/nguyen2023general/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts</title>
+      <link>/publication/nguyen2023towards/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian nonparametric mixture of experts for high-dimensional inverse problems</title>
+      <link>/publication/nguyen2023bayesian/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration results for approximate Bayesian computation without identifiability</title>
+      <link>/publication/nguyen2023concentration/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic theory for model selection in high-dimensional mixture of experts via joint rank and variable selection</title>
+      <link>/publication/nguyen2023nonasymptotic/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic model selection in block-diagonal mixture of polynomial experts models</title>
+      <link>/publication/nguyen2021nonblompe/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2021nonblompe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An l1-oracle inequality for the Lasso in mixture-of-experts regression models</title>
+      <link>/publication/nguyen2020l1oracle/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020l1oracle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convergence Rates for Mixtures of Experts | TrungTin Nguyen</title>
+    <link>/tag/convergence-rates-for-mixtures-of-experts/</link>
+      <atom:link href="/tag/convergence-rates-for-mixtures-of-experts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Convergence Rates for Mixtures of Experts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Convergence Rates for Mixtures of Experts</title>
+      <link>/tag/convergence-rates-for-mixtures-of-experts/</link>
+    </image>
+    
+    <item>
+      <title>Convergence Rates for Mixtures of Experts</title>
+      <link>/project/convergence-rates-for-mixtures-of-experts/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/project/convergence-rates-for-mixtures-of-experts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TrungTin Nguyen</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>TrungTin Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>TrungTin Nguyen</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</title>
+      <link>/publication/nguyen2023general/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</title>
+      <link>/publication/do2023hyperouter/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/do2023hyperouter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts</title>
+      <link>/publication/nguyen2023towards/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Softmax Gating in Gaussian Mixture of Experts</title>
+      <link>/publication/nguyen2023demystifying/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023demystifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convergence Rates for Mixtures of Experts</title>
+      <link>/project/convergence-rates-for-mixtures-of-experts/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/project/convergence-rates-for-mixtures-of-experts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian nonparametric mixture of experts for high-dimensional inverse problems</title>
+      <link>/publication/nguyen2023bayesian/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration results for approximate Bayesian computation without identifiability</title>
+      <link>/publication/nguyen2023concentration/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic theory for model selection in high-dimensional mixture of experts via joint rank and variable selection</title>
+      <link>/publication/nguyen2023nonasymptotic/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks</title>
+      <link>/project/deep-neural-networks/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/project/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts models</title>
+      <link>/talk/icsds2022/</link>
+      <pubDate>Tue, 13 Dec 2022 14:00:00 +0000</pubDate>
+      <guid>/talk/icsds2022/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian nonparametric mixture of experts for high-dimensional inverse problems</title>
+      <link>/talk/bnp132022/</link>
+      <pubDate>Mon, 24 Oct 2022 14:00:00 +0000</pubDate>
+      <guid>/talk/bnp132022/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Summary statistics and discrepancy measures for approximate Bayesian computation via surrogate posteriors</title>
+      <link>/publication/forbes2022summary/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts</title>
+      <link>/publication/nguyen2022nonasymptotic/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection by penalization in mixture of experts models with a non-asymptotic approach.</title>
+      <link>/talk/jds2022/</link>
+      <pubDate>Mon, 13 Jun 2022 14:00:00 +0000</pubDate>
+      <guid>/talk/jds2022/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mixture of expert posterior surrogates for approximate Bayesian computation</title>
+      <link>/publication/forbes2022mixture/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022mixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection by penalization in mixture of experts models with a non-asymptotic approach</title>
+      <link>/publication/nguyen2022model/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation of probability density functions via location-scale finite mixtures in Lebesgue spaces</title>
+      <link>/publication/nguyen2020approximationlebesgue/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationlebesgue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts models.</title>
+      <link>/talk/sasviasm2022/</link>
+      <pubDate>Wed, 11 May 2022 14:00:00 +0000</pubDate>
+      <guid>/talk/sasviasm2022/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in mixture of experts models</title>
+      <link>/talk/statlearn2022/</link>
+      <pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
+      <guid>/talk/statlearn2022/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic model selection in mixture of experts models</title>
+      <link>/talk/ensai2022/</link>
+      <pubDate>Fri, 18 Mar 2022 11:00:00 +0000</pubDate>
+      <guid>/talk/ensai2022/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Nonparametrics in Mixture of Experts Models</title>
+      <link>/project/bayesian-nonparametrics-in-mixture-of-experts-models/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/project/bayesian-nonparametrics-in-mixture-of-experts-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection and Approximation in High-dimensional Mixtures of Experts Models: from Theory to Practice</title>
+      <link>/publication/nguyen2021modelthesis/</link>
+      <pubDate>Tue, 14 Dec 2021 14:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2021modelthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection and Approximation in High-dimensional Mixtures of Experts Models$:$ From Theory to Practice</title>
+      <link>/talk/soutenancedethese2021decembre14/</link>
+      <pubDate>Tue, 14 Dec 2021 13:30:00 +0000</pubDate>
+      <guid>/talk/soutenancedethese2021decembre14/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Model Selection and Approximation in High-dimensional Mixtures of Experts Models From Theory to Practice</title>
+      <link>/talk/jedlehavre2021/</link>
+      <pubDate>Fri, 29 Oct 2021 09:00:00 +0000</pubDate>
+      <guid>/talk/jedlehavre2021/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Approximation and non-asymptotic model selection in mixture of experts models</title>
+      <link>/talk/iaadm2021/</link>
+      <pubDate>Thu, 30 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>/talk/iaadm2021/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Approximations of conditional probability density functions in Lebesgue spaces via mixture of experts models</title>
+      <link>/publication/nguyen2020approximationmoe/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationmoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Bayesian computation with surrogate posteriors</title>
+      <link>/talk/isba2021julyan/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/isba2021julyan/</guid>
+      <description>&lt;!---
+Machine learning is changing the world we live in at a break neck pace. From image recognition and generation, to the deployment of recommender systems, it seems to be breaking new ground constantly and influencing almost every aspect of our lives. In ths seminar series we ask distinguished speakers to comment on what role Bayesian statistics and Bayesian machine learning have in this rapidly changing landscape. Do we need to optimally process information or borrow strength in the big data era? Are philosophical concepts such as coherence and the likelihood principle relevant when you are running a large scale recommender system? Are variational approximations, MCMC or EP appropriate in a production environment? Can I use the propensity score and call myself a Bayesian? How can I elicit a prior over a massive dataset? Is Bayes a reasonable theory of how to be perfect but a hopeless theory of how to be good? Do we need Bayes when we can just A/B test? What combinations of pragmatism and idealism can be used to deploy Bayesian machine learning in a large scale live system? We ask Bayesian believers, Bayesian pragmatists and Bayesian sceptics to comment on all of these subjects and more.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic model selection in mixture of experts models</title>
+      <link>/talk/mhc2021/</link>
+      <pubDate>Wed, 02 Jun 2021 13:15:00 +0000</pubDate>
+      <guid>/talk/mhc2021/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic model selection in block-diagonal mixture of polynomial experts models</title>
+      <link>/publication/nguyen2021nonblompe/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2021nonblompe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Bayesian computation with surrogate posteriors</title>
+      <link>/talk/abcsvalbard2021florence/</link>
+      <pubDate>Mon, 12 Apr 2021 06:00:00 +0000</pubDate>
+      <guid>/talk/abcsvalbard2021florence/</guid>
+      <description>&lt;!---
+Machine learning is changing the world we live in at a break neck pace. From image recognition and generation, to the deployment of recommender systems, it seems to be breaking new ground constantly and influencing almost every aspect of our lives. In ths seminar series we ask distinguished speakers to comment on what role Bayesian statistics and Bayesian machine learning have in this rapidly changing landscape. Do we need to optimally process information or borrow strength in the big data era? Are philosophical concepts such as coherence and the likelihood principle relevant when you are running a large scale recommender system? Are variational approximations, MCMC or EP appropriate in a production environment? Can I use the propensity score and call myself a Bayesian? How can I elicit a prior over a massive dataset? Is Bayes a reasonable theory of how to be perfect but a hopeless theory of how to be good? Do we need Bayes when we can just A/B test? What combinations of pragmatism and idealism can be used to deploy Bayesian machine learning in a large scale live system? We ask Bayesian believers, Bayesian pragmatists and Bayesian sceptics to comment on all of these subjects and more.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Distance-based ABC procedures</title>
+      <link>/talk/abcsvalbard2021hien/</link>
+      <pubDate>Mon, 12 Apr 2021 06:00:00 +0000</pubDate>
+      <guid>/talk/abcsvalbard2021hien/</guid>
+      <description>&lt;!---
+Machine learning is changing the world we live in at a break neck pace. From image recognition and generation, to the deployment of recommender systems, it seems to be breaking new ground constantly and influencing almost every aspect of our lives. In ths seminar series we ask distinguished speakers to comment on what role Bayesian statistics and Bayesian machine learning have in this rapidly changing landscape. Do we need to optimally process information or borrow strength in the big data era? Are philosophical concepts such as coherence and the likelihood principle relevant when you are running a large scale recommender system? Are variational approximations, MCMC or EP appropriate in a production environment? Can I use the propensity score and call myself a Bayesian? How can I elicit a prior over a massive dataset? Is Bayes a reasonable theory of how to be perfect but a hopeless theory of how to be good? Do we need Bayes when we can just A/B test? What combinations of pragmatism and idealism can be used to deploy Bayesian machine learning in a large scale live system? We ask Bayesian believers, Bayesian pragmatists and Bayesian sceptics to comment on all of these subjects and more.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Non-asymptotic penalization criteria for model selection in mixture of experts models</title>
+      <link>/talk/mimo2021/</link>
+      <pubDate>Thu, 08 Apr 2021 09:00:00 +0000</pubDate>
+      <guid>/talk/mimo2021/</guid>
+      <description>&lt;!---
+The program includes talks on statistical methods for mixture models, both from a theoretical and a practical point of view, so that the conference should gather specialists from the different communities. The participation of junior researchers as well as PhD students is particularly encouraged. This workshop is organized under the project [**SMILES**](https://smiles.lmno.cnrs.fr/index.html) (Statistical Modeling and Inference for unsupervised Learning at LargE-Scale) funded by the french National Research Agency (ANR). It is also connected to the ex-RIN project [**AStERiCS**](https://asterics.lmno.cnrs.fr/index.html) (Scaled Statistical Learning for Representation and Unsupervised Classification), which was funded by the region Normandy, and the final culmination of which MiMo2020 (cancelled due to Covid-19 crisis) should have been.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Approximate Bayesian computation with surrogate posteriors</title>
+      <link>/talk/laplacedemon2021/</link>
+      <pubDate>Wed, 24 Feb 2021 17:00:00 +0000</pubDate>
+      <guid>/talk/laplacedemon2021/</guid>
+      <description>&lt;!---
+Machine learning is changing the world we live in at a break neck pace. From image recognition and generation, to the deployment of recommender systems, it seems to be breaking new ground constantly and influencing almost every aspect of our lives. In ths seminar series we ask distinguished speakers to comment on what role Bayesian statistics and Bayesian machine learning have in this rapidly changing landscape. Do we need to optimally process information or borrow strength in the big data era? Are philosophical concepts such as coherence and the likelihood principle relevant when you are running a large scale recommender system? Are variational approximations, MCMC or EP appropriate in a production environment? Can I use the propensity score and call myself a Bayesian? How can I elicit a prior over a massive dataset? Is Bayes a reasonable theory of how to be perfect but a hopeless theory of how to be good? Do we need Bayes when we can just A/B test? What combinations of pragmatism and idealism can be used to deploy Bayesian machine learning in a large scale live system? We ask Bayesian believers, Bayesian pragmatists and Bayesian sceptics to comment on all of these subjects and more.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Simulation-based Inference</title>
+      <link>/project/simulation-based-inference/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/project/simulation-based-inference/</guid>
+      <description>&lt;p&gt;A key ingredient in approximate Bayesian computation (ABC) procedures is the choice of a discrepancy that describes how different the simulated and observed data are, often based on a set of summary statistics when the data cannot be compared directly. Unless discrepancies and summaries are available from experts or prior knowledge, which seldom occurs, they have to be chosen and this can affect the approximations. Their choice is an active research topic, which has mainly considered data discrepancies requiring samples of observations or distances between summary statistics, to date. In this work, we introduce a preliminary learning step in which surrogate posteriors are built from finite Gaussian mixtures using an inverse regression approach. These surrogate posteriors are then used in place of summary statistics and compared using metrics between distributions in place of data discrepancies. Two such metrics are investigated, a standard L2 distance and an optimal transport-based distance. The whole procedure can be seen as an extension of the semi-automatic ABC framework to functional summary statistics. The resulting ABC quasi-posterior distribution is shown to converge to the true one, under standard conditions. Performance is illustrated on both synthetic and real data sets, where it is shown that our approach is particularly useful when the posterior is multimodal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An l1-oracle inequality for the Lasso in mixture-of-experts regression models</title>
+      <link>/publication/nguyen2020l1oracle/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020l1oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection in Mixture of Experts Models</title>
+      <link>/project/model-selection-in-mixture-of-experts-models/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/model-selection-in-mixture-of-experts-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation by finite mixtures of continuous density functions that vanish at infinity</title>
+      <link>/publication/nguyen2020approximation/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation Capabilities of Mixture of Experts Models</title>
+      <link>/project/approximation-capabilities-of-the-mixture-of-experts-models/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/approximation-capabilities-of-the-mixture-of-experts-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;commentable-false&#34;&gt;commentable: false&lt;/h1&gt;
+&lt;h1 id=&#34;date-2018-06-28t0000000100&#34;&gt;date: &amp;ldquo;2018-06-28T00:00:00+01:00&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;draft-true&#34;&gt;draft: true&lt;/h1&gt;
+&lt;h1 id=&#34;editable-false&#34;&gt;editable: false&lt;/h1&gt;
+&lt;h1 id=&#34;header&#34;&gt;header:&lt;/h1&gt;
+&lt;h1 id=&#34;caption-&#34;&gt;caption: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image-&#34;&gt;image: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;share-false&#34;&gt;share: false&lt;/h1&gt;
+&lt;h1 id=&#34;title-privacy-policy&#34;&gt;title: Privacy Policy&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&amp;hellip;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;h1 id=&#34;---&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;commentable-false&#34;&gt;commentable: false&lt;/h1&gt;
+&lt;h1 id=&#34;date-2018-06-28t0000000100&#34;&gt;date: &amp;ldquo;2018-06-28T00:00:00+01:00&amp;rdquo;&lt;/h1&gt;
+&lt;h1 id=&#34;draft-true&#34;&gt;draft: true&lt;/h1&gt;
+&lt;h1 id=&#34;editable-false&#34;&gt;editable: false&lt;/h1&gt;
+&lt;h1 id=&#34;header&#34;&gt;header:&lt;/h1&gt;
+&lt;h1 id=&#34;caption-&#34;&gt;caption: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;image-&#34;&gt;image: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;share-false&#34;&gt;share: false&lt;/h1&gt;
+&lt;h1 id=&#34;title-terms&#34;&gt;title: Terms&lt;/h1&gt;
+&lt;h1 id=&#34;----1&#34;&gt;&amp;mdash;&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;&amp;hellip;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

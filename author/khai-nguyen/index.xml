@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khai Nguyen | TrungTin Nguyen</title>
+    <link>/author/khai-nguyen/</link>
+      <atom:link href="/author/khai-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khai Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Khai Nguyen</title>
+      <link>/author/khai-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts</title>
+      <link>/publication/nguyen2023towards/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

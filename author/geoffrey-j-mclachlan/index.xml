@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoffrey J McLachlan | TrungTin Nguyen</title>
+    <link>/author/geoffrey-j-mclachlan/</link>
+      <atom:link href="/author/geoffrey-j-mclachlan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geoffrey J McLachlan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Geoffrey J McLachlan</title>
+      <link>/author/geoffrey-j-mclachlan/</link>
+    </image>
+    
+    <item>
+      <title>Approximation of probability density functions via location-scale finite mixtures in Lebesgue spaces</title>
+      <link>/publication/nguyen2020approximationlebesgue/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationlebesgue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations of conditional probability density functions in Lebesgue spaces via mixture of experts models</title>
+      <link>/publication/nguyen2020approximationmoe/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximationmoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An l1-oracle inequality for the Lasso in mixture-of-experts regression models</title>
+      <link>/publication/nguyen2020l1oracle/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020l1oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximation by finite mixtures of continuous density functions that vanish at infinity</title>
+      <link>/publication/nguyen2020approximation/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2020approximation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

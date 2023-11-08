@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Florence Forbes | TrungTin Nguyen</title>
+    <link>/author/florence-forbes/</link>
+      <atom:link href="/author/florence-forbes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florence Forbes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 TrungTin Nguyen</copyright><lastBuildDate>Sun, 05 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Florence Forbes</title>
+      <link>/author/florence-forbes/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian nonparametric mixture of experts for high-dimensional inverse problems</title>
+      <link>/publication/nguyen2023bayesian/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration results for approximate Bayesian computation without identifiability</title>
+      <link>/publication/nguyen2023concentration/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023concentration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summary statistics and discrepancy measures for approximate Bayesian computation via surrogate posteriors</title>
+      <link>/publication/forbes2022summary/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022summary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic approach for model selection via penalization in high-dimensional mixture of experts</title>
+      <link>/publication/nguyen2022nonasymptotic/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022nonasymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture of expert posterior surrogates for approximate Bayesian computation</title>
+      <link>/publication/forbes2022mixture/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2022mixture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model selection by penalization in mixture of experts models with a non-asymptotic approach</title>
+      <link>/publication/nguyen2022model/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2022model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A non-asymptotic model selection in block-diagonal mixture of polynomial experts models</title>
+      <link>/publication/nguyen2021nonblompe/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2021nonblompe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximate Bayesian computation with surrogate posteriors</title>
+      <link>/talk/abcsvalbard2021florence/</link>
+      <pubDate>Mon, 12 Apr 2021 06:00:00 +0000</pubDate>
+      <guid>/talk/abcsvalbard2021florence/</guid>
+      <description>&lt;!---
+Machine learning is changing the world we live in at a break neck pace. From image recognition and generation, to the deployment of recommender systems, it seems to be breaking new ground constantly and influencing almost every aspect of our lives. In ths seminar series we ask distinguished speakers to comment on what role Bayesian statistics and Bayesian machine learning have in this rapidly changing landscape. Do we need to optimally process information or borrow strength in the big data era? Are philosophical concepts such as coherence and the likelihood principle relevant when you are running a large scale recommender system? Are variational approximations, MCMC or EP appropriate in a production environment? Can I use the propensity score and call myself a Bayesian? How can I elicit a prior over a massive dataset? Is Bayes a reasonable theory of how to be perfect but a hopeless theory of how to be good? Do we need Bayes when we can just A/B test? What combinations of pragmatism and idealism can be used to deploy Bayesian machine learning in a large scale live system? We ask Bayesian believers, Bayesian pragmatists and Bayesian sceptics to comment on all of these subjects and more.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Approximate Bayesian computation with surrogate posteriors</title>
+      <link>/talk/laplacedemon2021/</link>
+      <pubDate>Wed, 24 Feb 2021 17:00:00 +0000</pubDate>
+      <guid>/talk/laplacedemon2021/</guid>
+      <description>&lt;!---
+Machine learning is changing the world we live in at a break neck pace. From image recognition and generation, to the deployment of recommender systems, it seems to be breaking new ground constantly and influencing almost every aspect of our lives. In ths seminar series we ask distinguished speakers to comment on what role Bayesian statistics and Bayesian machine learning have in this rapidly changing landscape. Do we need to optimally process information or borrow strength in the big data era? Are philosophical concepts such as coherence and the likelihood principle relevant when you are running a large scale recommender system? Are variational approximations, MCMC or EP appropriate in a production environment? Can I use the propensity score and call myself a Bayesian? How can I elicit a prior over a massive dataset? Is Bayes a reasonable theory of how to be perfect but a hopeless theory of how to be good? Do we need Bayes when we can just A/B test? What combinations of pragmatism and idealism can be used to deploy Bayesian machine learning in a large scale live system? We ask Bayesian believers, Bayesian pragmatists and Bayesian sceptics to comment on all of these subjects and more.
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
