@@ -235,10 +235,8 @@
     <loc>/home/</loc>
   </url><url>
     <loc>/privacy/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/terms/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
   </url>
