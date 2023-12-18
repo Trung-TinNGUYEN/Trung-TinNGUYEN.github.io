@@ -1,9 +1,24 @@
-@inproceedings{do_hyperrouter_2023,
-	address = {Singapore},
-	title = {{HyperRouter}: {Towards} {Efficient} {Training} and {Inference} of {Sparse} {Mixture} of {Experts}},
-	booktitle = {Proceedings of the 2023 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing}},
-	publisher = {Association for Computational Linguistics},
-	author = {Do, Truong Giang and Le, Huy Khiem and Pham, Quang and Nguyen, TrungTin and Nguyen  , Binh T. and Doan, Thanh-Nam and Liu, Chenghao and Ramasamy, Savitha and Li, Xiaoli and HOI, Steven},
-	month = dec,
-	year = {2023},
+@inproceedings{do-etal-2023-hyperrouter,
+    title = "{H}yper{R}outer: Towards Efficient Training and Inference of Sparse Mixture of Experts",
+    author = "Do, Truong  and
+      Khiem, Le  and
+      Pham, Quang  and
+      Nguyen, TrungTin  and
+      Doan, Thanh-Nam  and
+      Nguyen, Binh  and
+      Liu, Chenghao  and
+      Ramasamy, Savitha  and
+      Li, Xiaoli  and
+      Hoi, Steven",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.351",
+    pages = "5754--5765",
+    abstract = "By routing input tokens to only a few split experts, Sparse Mixture-of-Experts has enabled efficient training of large language models. Recent findings suggest that fixing the routers can achieve competitive performance by alleviating the collapsing problem, where all experts eventually learn similar representations. However, this strategy has two key limitations: (i) the policy derived from random routers might be sub-optimal, and (ii) it requires extensive resources during training and evaluation, leading to limited efficiency gains. This work introduces HyperRouter, which dynamically generates the router{'}s parameters through a fixed hypernetwork and trainable embeddings to achieve a balance between training the routers and freezing them to learn an improved routing policy. Extensive experiments across a wide range of tasks demonstrate the superior performance and efficiency gains of HyperRouter compared to existing routing methods. Our implementation is publicly available at \url{https://github.com/giangdip2410/HyperRouter}.",
 }
