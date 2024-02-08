@@ -5,12 +5,20 @@
     <link>/author/xiaoli-li/</link>
       <atom:link href="/author/xiaoli-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoli Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Xiaoli Li</title>
       <link>/author/xiaoli-li/</link>
     </image>
+    
+    <item>
+      <title>CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</title>
+      <link>/publication/pham2024competesmoe/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/pham2024competesmoe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</title>

@@ -5,12 +5,20 @@
     <link>/author/huy-nguyen/</link>
       <atom:link href="/author/huy-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>Huy Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Huy Nguyen</title>
       <link>/author/huy-nguyen/</link>
     </image>
+    
+    <item>
+      <title>CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</title>
+      <link>/publication/pham2024competesmoe/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/pham2024competesmoe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demystifying Softmax Gating Function in Gaussian Mixture of Experts</title>

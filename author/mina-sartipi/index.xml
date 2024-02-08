@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mina Sartipi | TrungTin Nguyen</title>
+    <link>/author/mina-sartipi/</link>
+      <atom:link href="/author/mina-sartipi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mina Sartipi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Mina Sartipi</title>
+      <link>/author/mina-sartipi/</link>
+    </image>
+    
+    <item>
+      <title>CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</title>
+      <link>/publication/pham2024competesmoe/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/pham2024competesmoe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>/author/trungtin-nguyen/</link>
       <atom:link href="/author/trungtin-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>TrungTin Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>TrungTin Nguyen</title>
       <link>/author/trungtin-nguyen/</link>
     </image>
+    
+    <item>
+      <title>CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</title>
+      <link>/publication/pham2024competesmoe/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/pham2024competesmoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</title>
+      <link>/publication/nguyen2024structure/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2024structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Likelihood Free Inference using Mixtures of Experts</title>
+      <link>/publication/forbes2024bayesian/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2024bayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demystifying Softmax Gating Function in Gaussian Mixture of Experts</title>
