@@ -5,12 +5,20 @@
     <link>/author/trungtin-nguyen/</link>
       <atom:link href="/author/trungtin-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>TrungTin Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>TrungTin Nguyen</title>
       <link>/author/trungtin-nguyen/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Likelihood Free Inference using Mixtures of Experts</title>
+      <link>/publication/forbes2024bayesian/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2024bayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</title>
