@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Postdoctoral Research Fellow">
+  <meta name="description" content="We consider the problem of estimating probability density functions based on sample data, using a finite mixture of densities from some component class. To this end, we introduce the h-lifted Kullback--Leibler (KL) divergence as a generalization of the standard KL divergence and a criterion for conducting risk minimization. Under a compact support assumption, we prove an $\{O}(1/{\sqrt{n}})$ bound on the expected estimation error when using the h-lifted KL divergence, which extends the results of Rakhlin et al. (2005, ESAIM Probability and Statistics, Vol. 9) and Li and Barron (1999, Advances in Neural Information ProcessingSystems, Vol. 12) to permit the risk bounding of density functions that are not strictly positive. We develop a procedure for the computation of the corresponding maximum h-lifted likelihood estimators (h-MLLEs) using the Majorization-Maximization framework and provide experimental results in support of our theoretical bounds.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/404.html">
+  <link rel="alternate" hreflang="en-us" href="/publication/chong2024risk/">
 
   
 
@@ -256,7 +256,7 @@
   <link rel="icon" type="image/png" href="/images/icon_huf3d19fa03233384ac87f6266a08cd3fc_74825_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf3d19fa03233384ac87f6266a08cd3fc_74825_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="/404.html">
+  <link rel="canonical" href="/publication/chong2024risk/">
 
   
   
@@ -274,18 +274,61 @@
   <meta property="twitter:creator" content="@TrungTinNguyen0">
   
   <meta property="og:site_name" content="TrungTin Nguyen">
-  <meta property="og:url" content="/404.html">
-  <meta property="og:title" content="404 Page not found | TrungTin Nguyen">
-  <meta property="og:description" content="Postdoctoral Research Fellow"><meta property="og:image" content="/img/avatar2.jpg">
+  <meta property="og:url" content="/publication/chong2024risk/">
+  <meta property="og:title" content="Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence | TrungTin Nguyen">
+  <meta property="og:description" content="We consider the problem of estimating probability density functions based on sample data, using a finite mixture of densities from some component class. To this end, we introduce the h-lifted Kullback--Leibler (KL) divergence as a generalization of the standard KL divergence and a criterion for conducting risk minimization. Under a compact support assumption, we prove an $\{O}(1/{\sqrt{n}})$ bound on the expected estimation error when using the h-lifted KL divergence, which extends the results of Rakhlin et al. (2005, ESAIM Probability and Statistics, Vol. 9) and Li and Barron (1999, Advances in Neural Information ProcessingSystems, Vol. 12) to permit the risk bounding of density functions that are not strictly positive. We develop a procedure for the computation of the corresponding maximum h-lifted likelihood estimators (h-MLLEs) using the Majorization-Maximization framework and provide experimental results in support of our theoretical bounds."><meta property="og:image" content="/img/avatar2.jpg">
   <meta property="twitter:image" content="/img/avatar2.jpg"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2024-04-19T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-04-19T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/chong2024risk/"
+  },
+  "headline": "Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence",
+  
+  "datePublished": "2024-04-19T00:00:00Z",
+  "dateModified": "2024-04-19T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mark Chiu Chong"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "TrungTin Nguyen",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_huf3d19fa03233384ac87f6266a08cd3fc_74825_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "We consider the problem of estimating probability density functions based on sample data, using a finite mixture of densities from some component class. To this end, we introduce the h-lifted Kullback--Leibler (KL) divergence as a generalization of the standard KL divergence and a criterion for conducting risk minimization. Under a compact support assumption, we prove an $\\{O}(1/{\\sqrt{n}})$ bound on the expected estimation error when using the h-lifted KL divergence, which extends the results of Rakhlin et al. (2005, ESAIM Probability and Statistics, Vol. 9) and Li and Barron (1999, Advances in Neural Information ProcessingSystems, Vol. 12) to permit the risk bounding of density functions that are not strictly positive. We develop a procedure for the computation of the corresponding maximum h-lifted likelihood estimators (h-MLLEs) using the Majorization-Maximization framework and provide experimental results in support of our theoretical bounds."
+}
+</script>
+
+  
 
   
 
@@ -293,10 +336,13 @@
   
 
 
+  
 
 
 
-  <title>404 Page not found | TrungTin Nguyen</title>
+
+
+  <title>Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence | TrungTin Nguyen</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -476,50 +522,469 @@
 </nav>
 
 
-  <div class="universal-wrapper pt-3">
-
-  <h1>Page not found</h1>
-
-  
-  
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
-  
+  <div class="pub">
 
   
 
-  <p>Perhaps you were looking for one of these?</p>
+
+
+
+
+
+
+
+
+
+
+
+  
 
   
   
   
-  <h2>Latest</h2>
-  <ul>
-    
-      <li><a href="/talks/">Recent &amp; Upcoming Talks</a></li>
-    
-      <li><a href="/publication/nguyen2023towards/">Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts</a></li>
-    
-      <li><a href="/publication/chong2024risk/">Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence</a></li>
-    
-      <li><a href="/publication/forbes2024bayesian/">Bayesian Likelihood Free Inference using Mixtures of Experts</a></li>
-    
-      <li><a href="/publication/pham2024competesmoe/">CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</a></li>
-    
-      <li><a href="/publication/nguyen2024structure/">Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</a></li>
-    
-      <li><a href="/publication/nguyen2023demystifying/">Demystifying Softmax Gating Function in Gaussian Mixture of Experts</a></li>
-    
-      <li><a href="/publication/nguyen2023general/">A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</a></li>
-    
-      <li><a href="/publication/do2023hyperouter/">HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</a></li>
-    
-      <li><a href="/project/convergence-rates-for-mixtures-of-experts/">Convergence Rates for Mixtures of Experts</a></li>
-    
-  </ul>
+<div class="article-container pt-3">
+  <h1>Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence</h1>
+
   
 
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Mark Chiu Chong</span>, <span >Hien Duy Nguyen</span>, <span class="font-weight-bold"><a href="/author/trungtin-nguyen/">TrungTin Nguyen</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2404.12586" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/chong2024risk/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/convergence-rates-for-mixtures-of-experts/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We consider the problem of estimating probability density functions based on sample data, using a finite mixture of densities from some component class. To this end, we introduce the h-lifted Kullback&ndash;Leibler (KL) divergence as a generalization of the standard KL divergence and a criterion for conducting risk minimization. Under a compact support assumption, we prove an ${O}(1/{\sqrt{n}})$ bound on the expected estimation error when using the h-lifted KL divergence, which extends the results of Rakhlin et al. (2005, ESAIM Probability and Statistics, Vol. 9) and Li and Barron (1999, Advances in Neural Information ProcessingSystems, Vol. 12) to permit the risk bounding of density functions that are not strictly positive. We develop a procedure for the computation of the corresponding maximum h-lifted likelihood estimators (h-MLLEs) using the Majorization-Maximization framework and provide experimental results in support of our theoretical bounds.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Prepint arXiv:2404.12586</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/trungtin-nguyen/avatar_hued61db7a7fd767a00e76edbe4a3b2c83_1146978_270x270_fill_q90_lanczos_center.jpeg" alt="TrungTin Nguyen">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/">TrungTin Nguyen</a></h5>
+        <h6 class="card-subtitle">Postdoctoral Research Fellow</h6>
+        <p class="card-text">A central theme of my research is data science at the intersection of statistical learning, machine learning and optimization.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=NhiJDJsAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Trungtin-Nguyen-2" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.semanticscholar.org/author/1899270520" target="_blank" rel="noopener">
+        <i class="ai ai-semantic-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-8433-5980" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pid/275/3643.html" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/Trung-TinNGUYEN" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:trungtinnguyends@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/TrungTinNguyen0" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/trungtinnguyen0/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.instagram.com/trung_tin__nguyen/" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+<div class="article-widget">
+  
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/publication/nguyen2023towards/" rel="next">Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts</a>
+  </div>
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/publication/forbes2024bayesian/" rel="prev">Bayesian Likelihood Free Inference using Mixtures of Experts</a>
+  </div>
+  
+</div>
+
+</div>
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
 </div>
 
       
