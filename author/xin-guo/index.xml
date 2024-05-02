@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Guo | TrungTin Nguyen</title>
+    <link>/author/xin-guo/</link>
+      <atom:link href="/author/xin-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Xin Guo</title>
+      <link>/author/xin-guo/</link>
+    </image>
+    
+    <item>
+      <title>On the Asymptotic Distribution of the Minimum Empirical Risk</title>
+      <link>/publication/westerhout2024asymptotic/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/westerhout2024asymptotic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

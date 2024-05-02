@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asymptotic Statistics | TrungTin Nguyen</title>
+    <link>/tag/asymptotic-statistics/</link>
+      <atom:link href="/tag/asymptotic-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asymptotic Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar2.jpg</url>
+      <title>Asymptotic Statistics</title>
+      <link>/tag/asymptotic-statistics/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotic Statistics</title>
+      <link>/project/asymptotic-statistics/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/project/asymptotic-statistics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

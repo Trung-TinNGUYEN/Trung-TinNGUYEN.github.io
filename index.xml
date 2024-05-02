@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>TrungTin Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>TrungTin Nguyen</title>
@@ -17,6 +17,38 @@
       <link>/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</title>
+      <link>/publication/nguyen2023general/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2023general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymptotic Statistics</title>
+      <link>/project/asymptotic-statistics/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/project/asymptotic-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Asymptotic Distribution of the Minimum Empirical Risk</title>
+      <link>/publication/westerhout2024asymptotic/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/westerhout2024asymptotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</title>
+      <link>/publication/nguyen2024structure/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2024structure/</guid>
       <description></description>
     </item>
     
@@ -53,26 +85,10 @@
     </item>
     
     <item>
-      <title>Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</title>
-      <link>/publication/nguyen2024structure/</link>
-      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/nguyen2024structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Demystifying Softmax Gating Function in Gaussian Mixture of Experts</title>
       <link>/publication/nguyen2023demystifying/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/publication/nguyen2023demystifying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</title>
-      <link>/publication/nguyen2023general/</link>
-      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/nguyen2023general/</guid>
       <description></description>
     </item>
     

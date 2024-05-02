@@ -5,12 +5,20 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Asymptotic Statistics</title>
+      <link>/project/asymptotic-statistics/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/project/asymptotic-statistics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Convergence Rates for Mixtures of Experts</title>
