@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Bayesian Likelihood Free Inference using Mixtures of Experts</title>
+      <link>/publication/forbes2024bayesian/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/forbes2024bayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts</title>
@@ -41,14 +49,6 @@
       <link>/publication/nguyen2023towards/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/publication/nguyen2023towards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian Likelihood Free Inference using Mixtures of Experts</title>
-      <link>/publication/forbes2024bayesian/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/forbes2024bayesian/</guid>
       <description></description>
     </item>
     
