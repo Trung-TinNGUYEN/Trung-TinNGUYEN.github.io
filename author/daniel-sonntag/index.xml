@@ -5,12 +5,20 @@
     <link>/author/daniel-sonntag/</link>
       <atom:link href="/author/daniel-sonntag/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Sonntag</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Daniel Sonntag</title>
       <link>/author/daniel-sonntag/</link>
     </image>
+    
+    <item>
+      <title>Accelerating Transformers with Spectrum-Preserving Token Merging</title>
+      <link>/publication/tran2024accelerating/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/tran2024accelerating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</title>

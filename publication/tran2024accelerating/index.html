@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Increasing the throughput of the Transformer architecture, a foundational component used in numerous state-of-the-art models for vision and language tasks (e.g., GPT, LLaVa), is an important problem in machine learning. One recent and effective strategy is to merge token representations within Transformer models, aiming to reduce computational and memory requirements while maintaining accuracy. Prior works have proposed algorithms based on Bipartite Soft Matching (BSM), which divides tokens into distinct sets and merges the top k similar tokens. However, these methods have significant drawbacks, such as sensitivity to token-splitting strategies and damage to informative tokens in later layers. This paper presents a novel paradigm called PiToMe, which prioritizes the preservation of informative tokens using an additional metric termed the energy score. This score identifies large clusters of similar tokens as high-energy, indicating potential candidates for merging, while smaller (unique and isolated) clusters are considered as low-energy and preserved. Experimental findings demonstrate that PiToMe saved from 40-60\% FLOPs of the base models while exhibiting superior off-the-shelf performance on image classification (0.5\% average performance drop of ViT-MAE-H compared to 2.6\% as baselines), image-text retrieval (0.3\% average performance drop of CLIP on Flickr30k compared to 4.5\% as others), and analogously in visual questions answering with LLaVa-7B. Furthermore, PiToMe is theoretically shown to preserve intrinsic spectral properties of the original token space under mild conditions">
 
   
-  <link rel="alternate" hreflang="en-us" href="/project/deep-neural-networks/">
+  <link rel="alternate" hreflang="en-us" href="/publication/tran2024accelerating/">
 
   
 
@@ -256,7 +256,7 @@
   <link rel="icon" type="image/png" href="/images/icon_huf3d19fa03233384ac87f6266a08cd3fc_74825_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huf3d19fa03233384ac87f6266a08cd3fc_74825_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="/project/deep-neural-networks/">
+  <link rel="canonical" href="/publication/tran2024accelerating/">
 
   
   
@@ -274,15 +274,15 @@
   <meta property="twitter:creator" content="@TrungTinNguyen0">
   
   <meta property="og:site_name" content="TrungTin Nguyen">
-  <meta property="og:url" content="/project/deep-neural-networks/">
-  <meta property="og:title" content="Deep Neural Networks | TrungTin Nguyen">
-  <meta property="og:description" content=""><meta property="og:image" content="/project/deep-neural-networks/featured.png">
-  <meta property="twitter:image" content="/project/deep-neural-networks/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/tran2024accelerating/">
+  <meta property="og:title" content="Accelerating Transformers with Spectrum-Preserving Token Merging | TrungTin Nguyen">
+  <meta property="og:description" content="Increasing the throughput of the Transformer architecture, a foundational component used in numerous state-of-the-art models for vision and language tasks (e.g., GPT, LLaVa), is an important problem in machine learning. One recent and effective strategy is to merge token representations within Transformer models, aiming to reduce computational and memory requirements while maintaining accuracy. Prior works have proposed algorithms based on Bipartite Soft Matching (BSM), which divides tokens into distinct sets and merges the top k similar tokens. However, these methods have significant drawbacks, such as sensitivity to token-splitting strategies and damage to informative tokens in later layers. This paper presents a novel paradigm called PiToMe, which prioritizes the preservation of informative tokens using an additional metric termed the energy score. This score identifies large clusters of similar tokens as high-energy, indicating potential candidates for merging, while smaller (unique and isolated) clusters are considered as low-energy and preserved. Experimental findings demonstrate that PiToMe saved from 40-60\% FLOPs of the base models while exhibiting superior off-the-shelf performance on image classification (0.5\% average performance drop of ViT-MAE-H compared to 2.6\% as baselines), image-text retrieval (0.3\% average performance drop of CLIP on Flickr30k compared to 4.5\% as others), and analogously in visual questions answering with LLaVa-7B. Furthermore, PiToMe is theoretically shown to preserve intrinsic spectral properties of the original token space under mild conditions"><meta property="og:image" content="/img/avatar2.jpg">
+  <meta property="twitter:image" content="/img/avatar2.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2023-01-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2024-05-25T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2023-01-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2024-05-25T00:00:00&#43;00:00">
   
 
   
@@ -304,20 +304,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/project/deep-neural-networks/"
+    "@id": "/publication/tran2024accelerating/"
   },
-  "headline": "Deep Neural Networks",
+  "headline": "Accelerating Transformers with Spectrum-Preserving Token Merging",
   
-  "image": [
-    "/project/deep-neural-networks/featured.png"
-  ],
-  
-  "datePublished": "2023-01-01T00:00:00Z",
-  "dateModified": "2023-01-01T00:00:00Z",
+  "datePublished": "2024-05-25T00:00:00Z",
+  "dateModified": "2024-05-25T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "TrungTin Nguyen"
+    "name": "Hoai-Chau Tran"
   },
   
   "publisher": {
@@ -328,7 +324,7 @@
       "url": "/images/icon_huf3d19fa03233384ac87f6266a08cd3fc_74825_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": ""
+  "description": "Increasing the throughput of the Transformer architecture, a foundational component used in numerous state-of-the-art models for vision and language tasks (e.g., GPT, LLaVa), is an important problem in machine learning. One recent and effective strategy is to merge token representations within Transformer models, aiming to reduce computational and memory requirements while maintaining accuracy. Prior works have proposed algorithms based on Bipartite Soft Matching (BSM), which divides tokens into distinct sets and merges the top k similar tokens. However, these methods have significant drawbacks, such as sensitivity to token-splitting strategies and damage to informative tokens in later layers. This paper presents a novel paradigm called PiToMe, which prioritizes the preservation of informative tokens using an additional metric termed the energy score. This score identifies large clusters of similar tokens as high-energy, indicating potential candidates for merging, while smaller (unique and isolated) clusters are considered as low-energy and preserved. Experimental findings demonstrate that PiToMe saved from 40-60\\% FLOPs of the base models while exhibiting superior off-the-shelf performance on image classification (0.5\\% average performance drop of ViT-MAE-H compared to 2.6\\% as baselines), image-text retrieval (0.3\\% average performance drop of CLIP on Flickr30k compared to 4.5\\% as others), and analogously in visual questions answering with LLaVa-7B. Furthermore, PiToMe is theoretically shown to preserve intrinsic spectral properties of the original token space under mild conditions"
 }
 </script>
 
@@ -346,7 +342,7 @@
 
 
 
-  <title>Deep Neural Networks | TrungTin Nguyen</title>
+  <title>Accelerating Transformers with Spectrum-Preserving Token Merging | TrungTin Nguyen</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -526,7 +522,7 @@
 </nav>
 
 
-  <article class="article article-project">
+  <div class="pub">
 
   
 
@@ -541,30 +537,32 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Accelerating Transformers with Spectrum-Preserving Token Merging</h1>
+
+  
+
   
     
-  
-
-
-<div class="article-container pt-3">
-  <h1>Deep Neural Networks</h1>
-
-  
-
-  
 
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span >Hoai-Chau Tran</span>, <span >Duy M. H. Nguyen</span>, <span >Duy M. Nguyen</span>, <span class="font-weight-bold"><a href="/author/trungtin-nguyen/">TrungTin Nguyen</a></span>, <span >Ngan Le</span>, <span >Pengtao Xie</span>, <span >Daniel Sonntag</span>, <span >James Y. Zou</span>, <span >Binh T. Nguyen</span>, <span >Mathias Niepert</span>
+  </div>
   
   
 
@@ -574,7 +572,7 @@
     
       
     
-    Jan 1, 2023
+    May 2024
   </span>
   
 
@@ -591,10 +589,59 @@
 
 </div>
 
+    
+
+
+
+
+
+
+
+
+
+
+
   
 
 
 
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2405.16148" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/tran2024accelerating/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/deep-neural-networks/">
+    Project
+  </a>
+  
 
 
 
@@ -609,20 +656,56 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 293px;">
-  <div style="position: relative">
-    <img src="/project/deep-neural-networks/featured_hucc7530219f3003f8f93720f38b7c1312_177649_720x0_resize_lanczos_3.png" alt="" class="featured-image">
-    
-  </div>
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style">
-      
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Increasing the throughput of the Transformer architecture, a foundational component used in numerous state-of-the-art models for vision and language tasks (e.g., GPT, LLaVa), is an important problem in machine learning. One recent and effective strategy is to merge token representations within Transformer models, aiming to reduce computational and memory requirements while maintaining accuracy. Prior works have proposed algorithms based on Bipartite Soft Matching (BSM), which divides tokens into distinct sets and merges the top k similar tokens. However, these methods have significant drawbacks, such as sensitivity to token-splitting strategies and damage to informative tokens in later layers. This paper presents a novel paradigm called PiToMe, which prioritizes the preservation of informative tokens using an additional metric termed the energy score. This score identifies large clusters of similar tokens as high-energy, indicating potential candidates for merging, while smaller (unique and isolated) clusters are considered as low-energy and preserved. Experimental findings demonstrate that PiToMe saved from 40-60% FLOPs of the base models while exhibiting superior off-the-shelf performance on image classification (0.5% average performance drop of ViT-MAE-H compared to 2.6% as baselines), image-text retrieval (0.3% average performance drop of CLIP on Flickr30k compared to 4.5% as others), and analogously in visual questions answering with LLaVa-7B. Furthermore, PiToMe is theoretically shown to preserve intrinsic spectral properties of the original token space under mild conditions</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><span style="color:blue">Preprint arXiv:2405.16148</span></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
@@ -631,12 +714,6 @@
 
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/deep-neural-networks/">Deep neural networks</a>
-  
-</div>
-
 
 
 
@@ -651,7 +728,41 @@
 
 
   
+    
+    
+
+
+
+
+
   
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
 
 
 
@@ -842,6 +953,73 @@
   
 
 
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
 
 
 
@@ -857,15 +1035,8 @@
   
   
   <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="/project/convergence-rates-for-mixtures-of-experts/" rel="next">Convergence Rates for Mixtures of Experts</a>
-  </div>
-  
-  
-  
-  <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/project/bayesian-nonparametrics-in-mixture-of-experts-models/" rel="prev">Bayesian Nonparametrics in Mixture of Experts Models</a>
+    <a href="/publication/forbes2024bayesian/" rel="prev">Bayesian Likelihood Free Inference using Mixtures of Experts</a>
   </div>
   
 </div>
@@ -878,468 +1049,22 @@
 
   
   
-
-
-
-
-
-    <div class="project-related-pages content-widget-hr">
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
       
+      <li><a href="/publication/nguyen2024structure/">Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</a></li>
       
-
-      
-      
-      
-
-      
-      
-      
-        <h2>Publications</h2>
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/tran2024accelerating/" >Accelerating Transformers with Spectrum-Preserving Token Merging</a>
-    </h3>
-
-    
-    <a href="/publication/tran2024accelerating/" class="summary-link">
-      <div class="article-style">
-        Increasing the throughput of the Transformer architecture, a foundational component used in numerous state-of-the-art models for vision …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  
-  <span >Hoai-Chau Tran</span>, <span >Duy M. H. Nguyen</span>, <span >Duy M. Nguyen</span>, <span class="font-weight-bold"><a href="/author/trungtin-nguyen/">TrungTin Nguyen</a></span>, <span >Ngan Le</span>, <span >Pengtao Xie</span>, <span >Daniel Sonntag</span>, <span >James Y. Zou</span>, <span >Binh T. Nguyen</span>, <span >Mathias Niepert</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2405.16148" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/tran2024accelerating/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deep-neural-networks/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
+    </ul>
   </div>
-  <div class="ml-3">
-    
-    
+  
+
+
+
+
+
   </div>
 </div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/nguyen2024structure/" >Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</a>
-    </h3>
-
-    
-    <a href="/publication/nguyen2024structure/" class="summary-link">
-      <div class="article-style">
-        A molecule&rsquo;s 2D representation consists of its atoms, their attributes, and the molecule&rsquo;s covalent bonds. A 3D (geometric) …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  
-  <span >Duy M. H. Nguyen</span>, <span >Nina Lukashina</span>, <span >Tai Nguyen</span>, <span >An T. Le</span>, <span class="font-weight-bold"><a href="/author/trungtin-nguyen/">TrungTin Nguyen</a></span>, <span >Nhat Ho</span>, <span >Jan Peters</span>, <span >Daniel Sonntag</span>, <span >Viktor Zaverkin</span>, <span >Mathias Niepert</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2402.01975" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/nguyen2024structure/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deep-neural-networks/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/pham2024competesmoe/" >CompeteSMoE--Effective Training of Sparse Mixture of Experts via Competition</a>
-    </h3>
-
-    
-    <a href="/publication/pham2024competesmoe/" class="summary-link">
-      <div class="article-style">
-        Sparse mixture of experts (SMoE) offers an appealing solution to scale up the model complexity beyond the mean of increasing the …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  
-  <span >Quang Pham</span>, <span >Truong Giang Do</span>, <span >Huy Nguyen</span>, <span class="font-weight-bold"><a href="/author/trungtin-nguyen/">TrungTin Nguyen</a></span>, <span >Chenghao Liu</span>, <span >Mina Sartipi</span>, <span >Binh T. Nguyen</span>, <span >Savitha Ramasamy</span>, <span >Xiaoli Li</span>, <span >Steven Hoi</span>, <span >Nhat Ho</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2402.02526" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/pham2024competesmoe/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deep-neural-networks/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/do2023hyperouter/" >HyperRouter: Towards Efficient Training and Inference of Sparse Mixture of Experts</a>
-    </h3>
-
-    
-    <a href="/publication/do2023hyperouter/" class="summary-link">
-      <div class="article-style">
-        By routing input tokens to only a few split experts, Sparse Mixture-of-Experts has enabled efficient training of large language models. …
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  
-  <span >Truong Giang Do</span>, <span >Huy Khiem Le</span>, <span >Quang Pham</span>, <span class="font-weight-bold"><a href="/author/trungtin-nguyen/">TrungTin Nguyen</a></span>, <span >Binh T. Nguyen</span>, <span >Thanh-Nam Doan</span>, <span >Chenghao Liu</span>, <span >Savitha Ramasamy</span>, <span >Xiaoli Li</span>, <span >Steven HOI</span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://hal.science/hal-04257067" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/do2023hyperouter/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/deep-neural-networks/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-          
-        
-      
-
-      
-      
-      
-    </div>
-  </div>
-</article>
 
       
 
