@@ -5,12 +5,20 @@
     <link>/author/an-t.-le/</link>
       <atom:link href="/author/an-t.-le/index.xml" rel="self" type="application/rss+xml" />
     <description>An T. Le</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>An T. Le</title>
       <link>/author/an-t.-le/</link>
     </image>
+    
+    <item>
+      <title>LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model</title>
+      <link>/publication/nguyen2024logramed/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2024logramed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</title>

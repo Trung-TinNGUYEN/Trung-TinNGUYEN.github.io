@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tai Nguyen | TrungTin Nguyen</title>
-    <link>/author/tai-nguyen/</link>
-      <atom:link href="/author/tai-nguyen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tai Nguyen</description>
+    <title>Trung Q. Nguyen | TrungTin Nguyen</title>
+    <link>/author/trung-q.-nguyen/</link>
+      <atom:link href="/author/trung-q.-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trung Q. Nguyen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
-      <title>Tai Nguyen</title>
-      <link>/author/tai-nguyen/</link>
+      <title>Trung Q. Nguyen</title>
+      <link>/author/trung-q.-nguyen/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/nguyen2024logramed/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/nguyen2024logramed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structure-Aware E(3)-Invariant Molecular Conformer Aggregation Networks</title>
-      <link>/publication/nguyen2024structure/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/nguyen2024structure/</guid>
       <description></description>
     </item>
     

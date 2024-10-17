@@ -4,22 +4,73 @@
   <url>
     <loc>/talks/</loc>
   </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/an-t.-le/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/daniel-sonntag/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/duy-m.-h.-nguyen/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/hoang-bao-le/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/james-zhou/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/nguyen2024logramed/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mathias-niepert/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nghiem-t.-diep/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nhat-ho/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/pengtao-xie/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/roger-wattenhofer/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/tai-nguyen/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/tien-nguyen/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/trung-q.-nguyen/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/trungtin-nguyen/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tran2024accelerating/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/binh-t.-nguyen/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/daniel-sonntag/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/duy-m.-h.-nguyen/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/duy-m.-nguyen/</loc>
@@ -31,29 +82,8 @@
     <loc>/author/james-y.-zou/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/mathias-niepert/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/ngan-le/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/pengtao-xie/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/trungtin-nguyen/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/forbes2024bayesian/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
@@ -65,9 +95,6 @@
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/nguyen2023general/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/an-t.-le/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/asymptotic-statistics/</loc>
@@ -83,9 +110,6 @@
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/jan-peters/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/nhat-ho/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/nina-lukashina/</loc>
@@ -104,9 +128,6 @@
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/tai-nguyen/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/viktor-zaverkin/</loc>

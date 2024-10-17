@@ -5,12 +5,20 @@
     <link>/author/pengtao-xie/</link>
       <atom:link href="/author/pengtao-xie/index.xml" rel="self" type="application/rss+xml" />
     <description>Pengtao Xie</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Pengtao Xie</title>
       <link>/author/pengtao-xie/</link>
     </image>
+    
+    <item>
+      <title>LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model</title>
+      <link>/publication/nguyen2024logramed/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2024logramed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerating Transformers with Spectrum-Preserving Token Merging</title>
