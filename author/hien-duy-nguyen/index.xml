@@ -5,12 +5,20 @@
     <link>/author/hien-duy-nguyen/</link>
       <atom:link href="/author/hien-duy-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>Hien Duy Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>Hien Duy Nguyen</title>
       <link>/author/hien-duy-nguyen/</link>
     </image>
+    
+    <item>
+      <title>Bayesian nonparametric mixture of experts for inverse problems</title>
+      <link>/publication/nguyen2024bayesian/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen2024bayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian Likelihood Free Inference using Mixtures of Experts</title>
@@ -33,14 +41,6 @@
       <link>/publication/chong2024risk/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/publication/chong2024risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian nonparametric mixture of experts for high-dimensional inverse problems</title>
-      <link>/publication/nguyen2023bayesian/</link>
-      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/nguyen2023bayesian/</guid>
       <description></description>
     </item>
     
