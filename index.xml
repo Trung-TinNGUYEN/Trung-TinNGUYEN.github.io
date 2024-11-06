@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>TrungTin Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 TrungTin Nguyen</copyright><lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar2.jpg</url>
       <title>TrungTin Nguyen</title>
@@ -17,6 +17,14 @@
       <link>/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence</title>
+      <link>/publication/chong2024risk/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/chong2024risk/</guid>
       <description></description>
     </item>
     
@@ -89,14 +97,6 @@
       <link>/publication/nguyen2023towards/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/publication/nguyen2023towards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk Bounds for Mixture Density Estimation on Compact Domains via the h-Lifted Kullback--Leibler Divergence</title>
-      <link>/publication/chong2024risk/</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/chong2024risk/</guid>
       <description></description>
     </item>
     
